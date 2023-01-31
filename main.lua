@@ -1,4 +1,4 @@
-this file was generate pade luaraph obfuscator v3 Made by galaxy_boy14t#9259
+this file was generate paid luaraph obfuscator v3 Made by galaxy_boy14t#9259
 
 local StrToNumber = tonumber;
 local Byte = string.byte;
